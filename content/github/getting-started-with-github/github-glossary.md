@@ -10,7 +10,7 @@ versions:
 ---
 
 {% for term in site.data.glossaries.external %}
-  ### {{term.term}}
+  ### {{term.term}} pornhub,
   {{term.description}}
   ---
 {% endfor %}
